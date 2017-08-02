@@ -131,7 +131,7 @@ This selects an element that is nested only one level deep inside of the specifi
 ```html
 <ul id="list">
   <li>child</li>
-  <li>child
+  <li>child</li>
     <ul>
       <li>grand child</li>
     </ul>
@@ -241,7 +241,7 @@ This selects an element based on the unique relationship or state described in t
 
 `p:last-child` selects elements that are the last child when appearing inside a common parent. Such as `<div><p>I'm not selected</p><p>Neither am I</p><p>I'm selected</p></div>`
 
-These are just a few psuedo selectors, but there are many additional ones you can explore in the resource links provided at the botoom of this lesson.
+These are just a few pseudo selectors, but there are many additional ones you can explore in the resource links provided at the bottom of this lesson.
 
 ## Summary
 
